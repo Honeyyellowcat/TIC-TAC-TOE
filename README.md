@@ -13,6 +13,8 @@ This implementation provides a visually appealing graphical user interface (GUI)
 - Alternating turns between players, with X and O marks.
 - Automatic detection of winning conditions and ties, with pop-up message boxes for outcomes.
 
+![Tic-Tac-Toe Game Interface](PIC.png)
+
 ## Requirements  — ୨୧ —
 
 - Python
